@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+body {
+  background-size: cover;
+  background-image:url(../2293.jpg);
+  color:white;
+ 
+font-family: 'Anton', sans-serif;
+
+}
+h2{
+  color:orange;
+  font-family: 'Bungee Spice', cursive;
+
+}
+main{
+  padding: 50px;  
+  width: 1000PX;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  
+  
+  
+  
+}
+
+
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  color:aliceblue;
+  
+}
+
+.SEC{
+
+width: 500px;
+
+}
+img{
+  border-radius:50PX;
+  width: 300px;
+
+}
+
+.bigboy{
+    
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 100px;
+  
+  
+  
+  
+}
